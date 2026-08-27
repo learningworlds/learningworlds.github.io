@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "frogga",
+    "thumbnail": "https://learningworlds.github.io/images/300.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "over-the-rainbow",
+    "thumbnail": "https://learningworlds.github.io/images/301.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://learningworlds.github.io/images/302.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "star-digger",
+    "thumbnail": "https://learningworlds.github.io/images/303.webp",
+    "genre": "Space, Mobile2,396, Relaxing264, Space63, Incremental426"
+  },
+  {
+    "id": "dungeon-master-knight",
+    "thumbnail": "https://learningworlds.github.io/images/304.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://learningworlds.github.io/images/305.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-out-jam",
+    "thumbnail": "https://learningworlds.github.io/images/306.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mickey-run-adventure-game",
+    "thumbnail": "https://learningworlds.github.io/images/307.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "minecraft-battle-party",
+    "thumbnail": "https://learningworlds.github.io/images/308.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "boxteria",
+    "thumbnail": "https://learningworlds.github.io/images/309.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "house-deep-clean-sim",
+    "thumbnail": "https://learningworlds.github.io/images/310.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sea-match",
+    "thumbnail": "https://learningworlds.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "classic-mahjong",
+    "thumbnail": "https://learningworlds.github.io/images/312.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "meteoheroes",
+    "thumbnail": "https://learningworlds.github.io/images/313.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "gun-rush",
+    "thumbnail": "https://learningworlds.github.io/images/314.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "make-it-boom",
+    "thumbnail": "https://learningworlds.github.io/images/315.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "oreplication",
+    "thumbnail": "https://learningworlds.github.io/images/316.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "match-tile-royal-family",
+    "thumbnail": "https://learningworlds.github.io/images/317.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grid-blast",
+    "thumbnail": "https://learningworlds.github.io/images/318.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-champions",
+    "thumbnail": "https://learningworlds.github.io/images/319.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "zooma-dragon",
+    "thumbnail": "https://learningworlds.github.io/images/320.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jigsort-puzzles",
+    "thumbnail": "https://learningworlds.github.io/images/321.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "stick-ninja-survival",
+    "thumbnail": "https://learningworlds.github.io/images/322.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-pinball-merge-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/323.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sudoblock-daily",
+    "thumbnail": "https://learningworlds.github.io/images/324.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "new-years-miracles-connect-the-balls",
+    "thumbnail": "https://learningworlds.github.io/images/325.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-vs-monster-school-2",
+    "thumbnail": "https://learningworlds.github.io/images/326.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "merge-food-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/327.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://learningworlds.github.io/images/328.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tanks",
+    "thumbnail": "https://learningworlds.github.io/images/329.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "idle-lunch",
+    "thumbnail": "https://learningworlds.github.io/images/330.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "beam-drive-car-crash-test-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/331.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "poppy-playtime-3-game",
+    "thumbnail": "https://learningworlds.github.io/images/332.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "worm-puzzle-snake-apple",
+    "thumbnail": "https://learningworlds.github.io/images/333.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "monsterella-fantasy-makeup",
+    "thumbnail": "https://learningworlds.github.io/images/334.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mini-games-casual-collection",
+    "thumbnail": "https://learningworlds.github.io/images/335.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ball-and-girlfriend",
+    "thumbnail": "https://learningworlds.github.io/images/336.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "merge-flow",
+    "thumbnail": "https://learningworlds.github.io/images/337.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spaces-solitaire",
+    "thumbnail": "https://learningworlds.github.io/images/338.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "lava-ladder-leap",
+    "thumbnail": "https://learningworlds.github.io/images/339.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "my-farm-life",
+    "thumbnail": "https://learningworlds.github.io/images/340.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "superhero-phone-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/341.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cougar-simulator-big-cats",
+    "thumbnail": "https://learningworlds.github.io/images/342.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "amazing-crime-strange-stickman",
+    "thumbnail": "https://learningworlds.github.io/images/343.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pocketro",
+    "thumbnail": "https://learningworlds.github.io/images/344.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "teardown-destruction-sandbox",
+    "thumbnail": "https://learningworlds.github.io/images/345.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "chicken-wild-run",
+    "thumbnail": "https://learningworlds.github.io/images/346.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "amazing-word-twist",
+    "thumbnail": "https://learningworlds.github.io/images/347.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "labo-brick-train-game-for-kids",
+    "thumbnail": "https://learningworlds.github.io/images/348.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "endless-siege",
+    "thumbnail": "https://learningworlds.github.io/images/349.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-path",
+    "thumbnail": "https://learningworlds.github.io/images/350.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "extreme-makeover",
+    "thumbnail": "https://learningworlds.github.io/images/351.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-box-of-secrets",
+    "thumbnail": "https://learningworlds.github.io/images/352.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://learningworlds.github.io/images/353.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "xtreme-moto-mayhem",
+    "thumbnail": "https://learningworlds.github.io/images/354.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-dig",
+    "thumbnail": "https://learningworlds.github.io/images/355.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://learningworlds.github.io/images/356.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "drive-race-crash",
+    "thumbnail": "https://learningworlds.github.io/images/357.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pregnant-mother-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/358.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-pull-a-sword",
+    "thumbnail": "https://learningworlds.github.io/images/359.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lipstick-collector-run",
+    "thumbnail": "https://learningworlds.github.io/images/360.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "epic-empire-tower-defense",
+    "thumbnail": "https://learningworlds.github.io/images/361.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-brainrot-tbz",
+    "thumbnail": "https://learningworlds.github.io/images/362.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wave-dash-geometry-arrow",
+    "thumbnail": "https://learningworlds.github.io/images/363.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wrongway",
+    "thumbnail": "https://learningworlds.github.io/images/364.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-object-my-hotel",
+    "thumbnail": "https://learningworlds.github.io/images/365.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "copter-io",
+    "thumbnail": "https://learningworlds.github.io/images/366.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strikeforce-kitty",
+    "thumbnail": "https://learningworlds.github.io/images/367.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cursed-treasure-11-2",
+    "thumbnail": "https://learningworlds.github.io/images/368.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "superhero-race",
+    "thumbnail": "https://learningworlds.github.io/images/369.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stunt-racer",
+    "thumbnail": "https://learningworlds.github.io/images/370.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hole-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/371.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stylish-nail-art",
+    "thumbnail": "https://learningworlds.github.io/images/372.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "getaway-shootout",
+    "thumbnail": "https://learningworlds.github.io/images/373.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-roll-3d",
+    "thumbnail": "https://learningworlds.github.io/images/374.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cars-derby-arena",
+    "thumbnail": "https://learningworlds.github.io/images/375.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-bank",
+    "thumbnail": "https://learningworlds.github.io/images/376.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "super-hot",
+    "thumbnail": "https://learningworlds.github.io/images/377.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spider-evolution-runner-game",
+    "thumbnail": "https://learningworlds.github.io/images/378.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popcorn-empire-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/379.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "return-man-2",
+    "thumbnail": "https://learningworlds.github.io/images/380.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worms-io",
+    "thumbnail": "https://learningworlds.github.io/images/381.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-architect-tic",
+    "thumbnail": "https://learningworlds.github.io/images/382.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "apple-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/383.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/384.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-escape",
+    "thumbnail": "https://learningworlds.github.io/images/385.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "break-a-skyscraper",
+    "thumbnail": "https://learningworlds.github.io/images/386.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "donut-run",
+    "thumbnail": "https://learningworlds.github.io/images/387.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "battle-of-the-planets",
+    "thumbnail": "https://learningworlds.github.io/images/388.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-highest-jump-ever",
+    "thumbnail": "https://learningworlds.github.io/images/389.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "stack-sorting",
+    "thumbnail": "https://learningworlds.github.io/images/390.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "woop-crawl-up",
+    "thumbnail": "https://learningworlds.github.io/images/391.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cube-connect",
+    "thumbnail": "https://learningworlds.github.io/images/392.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rush-car-driving-race-master",
+    "thumbnail": "https://learningworlds.github.io/images/393.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "gold-rush-arena",
+    "thumbnail": "https://learningworlds.github.io/images/394.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "math-stars",
+    "thumbnail": "https://learningworlds.github.io/images/395.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "loot-challange",
+    "thumbnail": "https://learningworlds.github.io/images/396.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticker-art",
+    "thumbnail": "https://learningworlds.github.io/images/397.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-sort-master",
+    "thumbnail": "https://learningworlds.github.io/images/398.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "elemental-merge",
+    "thumbnail": "https://learningworlds.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tailor-stylist-fashion-diary",
+    "thumbnail": "https://learningworlds.github.io/images/400.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "vibe-colouring",
+    "thumbnail": "https://learningworlds.github.io/images/401.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "infected-days",
+    "thumbnail": "https://learningworlds.github.io/images/402.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "inca-cubes-2048",
+    "thumbnail": "https://learningworlds.github.io/images/403.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "night-club-security",
+    "thumbnail": "https://learningworlds.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://learningworlds.github.io/images/405.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "feed-the-parrot",
+    "thumbnail": "https://learningworlds.github.io/images/406.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://learningworlds.github.io/images/407.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-sponges-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/408.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fish-merge---under-water",
+    "thumbnail": "https://learningworlds.github.io/images/409.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anger-foot-3d",
+    "thumbnail": "https://learningworlds.github.io/images/410.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "no-shorts",
+    "thumbnail": "https://learningworlds.github.io/images/411.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ice-cream-inc-xkw",
+    "thumbnail": "https://learningworlds.github.io/images/412.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-it---find-the-differences",
+    "thumbnail": "https://learningworlds.github.io/images/413.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-lily-halloween-prep",
+    "thumbnail": "https://learningworlds.github.io/images/414.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "screw-jam-fun-puzzle-game",
+    "thumbnail": "https://learningworlds.github.io/images/415.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lucky-life",
+    "thumbnail": "https://learningworlds.github.io/images/416.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-vs-zombies",
+    "thumbnail": "https://learningworlds.github.io/images/417.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "mahjong-tour",
+    "thumbnail": "https://learningworlds.github.io/images/418.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "megamodgames",
+    "thumbnail": "https://learningworlds.github.io/images/419.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-duel",
+    "thumbnail": "https://learningworlds.github.io/images/420.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-objects-bakery",
+    "thumbnail": "https://learningworlds.github.io/images/421.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "tangled-snakes-sort-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/422.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "word-search",
+    "thumbnail": "https://learningworlds.github.io/images/423.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mushroom-blocks",
+    "thumbnail": "https://learningworlds.github.io/images/424.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "grunge-chic-alt-fashion",
+    "thumbnail": "https://learningworlds.github.io/images/425.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/426.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wild-west-match-2-the-gold-rush",
+    "thumbnail": "https://learningworlds.github.io/images/427.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "crystalia-idle-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/428.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "colored-bricks",
+    "thumbnail": "https://learningworlds.github.io/images/429.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dice-merge-3d",
+    "thumbnail": "https://learningworlds.github.io/images/430.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stack-tower-pro",
+    "thumbnail": "https://learningworlds.github.io/images/431.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "silent-dot",
+    "thumbnail": "https://learningworlds.github.io/images/432.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kick-and-ride",
+    "thumbnail": "https://learningworlds.github.io/images/433.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "car-jam-escape",
+    "thumbnail": "https://learningworlds.github.io/images/434.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "noob-fuse-xmr",
+    "thumbnail": "https://learningworlds.github.io/images/435.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "card-shuffle-sort",
+    "thumbnail": "https://learningworlds.github.io/images/436.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "evo-gears",
+    "thumbnail": "https://learningworlds.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fury-bike-rider",
+    "thumbnail": "https://learningworlds.github.io/images/438.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-tower-parkour-climb",
+    "thumbnail": "https://learningworlds.github.io/images/439.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "easter-glamping-trip",
+    "thumbnail": "https://learningworlds.github.io/images/440.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "squishy-fruits",
+    "thumbnail": "https://learningworlds.github.io/images/441.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "playground-parkour",
+    "thumbnail": "https://learningworlds.github.io/images/442.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "painter-s-voyage-idle",
+    "thumbnail": "https://learningworlds.github.io/images/443.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hotfoot-baseball",
+    "thumbnail": "https://learningworlds.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://learningworlds.github.io/images/445.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "jelly-merge-upgrade-sell",
+    "thumbnail": "https://learningworlds.github.io/images/446.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "city-gas-station-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/447.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "stickman-project-bnw",
+    "thumbnail": "https://learningworlds.github.io/images/448.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://learningworlds.github.io/images/449.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "a-grim-chase",
+    "thumbnail": "https://learningworlds.github.io/images/450.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bridge-fight",
+    "thumbnail": "https://learningworlds.github.io/images/451.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "millionaire-quiz",
+    "thumbnail": "https://learningworlds.github.io/images/452.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-game-2026",
+    "thumbnail": "https://learningworlds.github.io/images/453.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "mosquito-bite-3d",
+    "thumbnail": "https://learningworlds.github.io/images/454.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "gragyriss-captor-of-princesses",
+    "thumbnail": "https://learningworlds.github.io/images/455.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ropeway-master",
+    "thumbnail": "https://learningworlds.github.io/images/456.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ball-dunk-fall",
+    "thumbnail": "https://learningworlds.github.io/images/457.webp",
+    "genre": "Football, Basketball"
+  },
+  {
+    "id": "draw-quiz",
+    "thumbnail": "https://learningworlds.github.io/images/458.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://learningworlds.github.io/images/459.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "emoji-frenzy",
+    "thumbnail": "https://learningworlds.github.io/images/460.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "real-flight-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/461.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crown-cannon",
+    "thumbnail": "https://learningworlds.github.io/images/462.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shovel-3d",
+    "thumbnail": "https://learningworlds.github.io/images/463.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prune-milo",
+    "thumbnail": "https://learningworlds.github.io/images/464.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-sort-factory",
+    "thumbnail": "https://learningworlds.github.io/images/465.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hunt-and-seek",
+    "thumbnail": "https://learningworlds.github.io/images/466.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "draw-to-smash",
+    "thumbnail": "https://learningworlds.github.io/images/467.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bus-stop-color-jam",
+    "thumbnail": "https://learningworlds.github.io/images/468.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "princess-royal-wedding",
+    "thumbnail": "https://learningworlds.github.io/images/469.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://learningworlds.github.io/images/470.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dta-2-maniac",
+    "thumbnail": "https://learningworlds.github.io/images/471.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "merge-tools---merge-ang-dig",
+    "thumbnail": "https://learningworlds.github.io/images/472.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "line-on-hole",
+    "thumbnail": "https://learningworlds.github.io/images/473.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "brawl-frenzy-fight-io",
+    "thumbnail": "https://learningworlds.github.io/images/474.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombo-buster-rising",
+    "thumbnail": "https://learningworlds.github.io/images/475.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-truck-rampage",
+    "thumbnail": "https://learningworlds.github.io/images/476.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tidy-master-satisfeel-asmr",
+    "thumbnail": "https://learningworlds.github.io/images/477.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fashion-valkyries-saga-of-style",
+    "thumbnail": "https://learningworlds.github.io/images/478.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "lime-playground-sandbox",
+    "thumbnail": "https://learningworlds.github.io/images/479.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://learningworlds.github.io/images/480.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dino-digg",
+    "thumbnail": "https://learningworlds.github.io/images/481.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "diner-in-the-storm",
+    "thumbnail": "https://learningworlds.github.io/images/482.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "1945-air-force-space-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/483.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "my-cottagecore-aesthetic-look",
+    "thumbnail": "https://learningworlds.github.io/images/484.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sword-merging-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/485.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pinball-mania-grv",
+    "thumbnail": "https://learningworlds.github.io/images/486.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://learningworlds.github.io/images/487.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "skyblock-survive-with-noob",
+    "thumbnail": "https://learningworlds.github.io/images/488.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "urban-assault-force",
+    "thumbnail": "https://learningworlds.github.io/images/489.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "911-prey",
+    "thumbnail": "https://learningworlds.github.io/images/490.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "samurai-madness",
+    "thumbnail": "https://learningworlds.github.io/images/491.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://learningworlds.github.io/images/492.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "panda-shop-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/493.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/494.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mafia-roulette",
+    "thumbnail": "https://learningworlds.github.io/images/495.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "cool-cars-racing-at-altitude",
+    "thumbnail": "https://learningworlds.github.io/images/496.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "lost-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drive-to-survive",
+    "thumbnail": "https://learningworlds.github.io/images/498.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bubble-gum-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/499.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-road-asm",
+    "thumbnail": "https://learningworlds.github.io/images/500.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "head-runner-dash",
+    "thumbnail": "https://learningworlds.github.io/images/501.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-farm-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/502.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slime-farm-remake",
+    "thumbnail": "https://learningworlds.github.io/images/503.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyberpunk-corporation",
+    "thumbnail": "https://learningworlds.github.io/images/504.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://learningworlds.github.io/images/505.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "greedy-snake-brain-hole-explosion",
+    "thumbnail": "https://learningworlds.github.io/images/506.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "snake-out-maze-escape",
+    "thumbnail": "https://learningworlds.github.io/images/507.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popping-sushi",
+    "thumbnail": "https://learningworlds.github.io/images/508.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-mine-mobs-attack",
+    "thumbnail": "https://learningworlds.github.io/images/509.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/510.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sword-life",
+    "thumbnail": "https://learningworlds.github.io/images/511.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "from-nerds-to-beauties",
+    "thumbnail": "https://learningworlds.github.io/images/512.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://learningworlds.github.io/images/513.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stickman-team-detroit",
+    "thumbnail": "https://learningworlds.github.io/images/514.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "forge-of-gods",
+    "thumbnail": "https://learningworlds.github.io/images/515.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-timeline",
+    "thumbnail": "https://learningworlds.github.io/images/516.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sniper-master",
+    "thumbnail": "https://learningworlds.github.io/images/517.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "canasta-royale-offline",
+    "thumbnail": "https://learningworlds.github.io/images/518.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "battler",
+    "thumbnail": "https://learningworlds.github.io/images/519.webp",
+    "genre": "Battle, Cards"
+  },
+  {
+    "id": "day-of-atrocity",
+    "thumbnail": "https://learningworlds.github.io/images/520.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "bloons-super-monkey",
+    "thumbnail": "https://learningworlds.github.io/images/521.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chain-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/522.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-city-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/523.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-snake-2048",
+    "thumbnail": "https://learningworlds.github.io/images/524.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-gardens",
+    "thumbnail": "https://learningworlds.github.io/images/525.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gravity-arena-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/526.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zoo-shap",
+    "thumbnail": "https://learningworlds.github.io/images/527.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "level-eaten",
+    "thumbnail": "https://learningworlds.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-brick-wars",
+    "thumbnail": "https://learningworlds.github.io/images/529.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "raven-estate",
+    "thumbnail": "https://learningworlds.github.io/images/530.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spin-thru",
+    "thumbnail": "https://learningworlds.github.io/images/531.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "pixel-fun-color-by-number",
+    "thumbnail": "https://learningworlds.github.io/images/532.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "air-battle-royale-sky-blitz",
+    "thumbnail": "https://learningworlds.github.io/images/533.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kings-and-queens-match",
+    "thumbnail": "https://learningworlds.github.io/images/534.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://learningworlds.github.io/images/535.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "capybara-screw-jam",
+    "thumbnail": "https://learningworlds.github.io/images/536.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "capybara-merge-evolution",
+    "thumbnail": "https://learningworlds.github.io/images/537.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "microplastics-feeding",
+    "thumbnail": "https://learningworlds.github.io/images/538.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bmg-crashday-2025",
+    "thumbnail": "https://learningworlds.github.io/images/539.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bottle-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/540.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "road-master",
+    "thumbnail": "https://learningworlds.github.io/images/541.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixlock",
+    "thumbnail": "https://learningworlds.github.io/images/542.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://learningworlds.github.io/images/543.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "superstar-college-girls-makeover",
+    "thumbnail": "https://learningworlds.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://learningworlds.github.io/images/545.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "find-me-lost-objects",
+    "thumbnail": "https://learningworlds.github.io/images/546.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archer-legend",
+    "thumbnail": "https://learningworlds.github.io/images/547.webp",
+    "genre": "Shooter, Sports"
+  },
+  {
+    "id": "doggo-drop",
+    "thumbnail": "https://learningworlds.github.io/images/548.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://learningworlds.github.io/images/549.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "idle-saga",
+    "thumbnail": "https://learningworlds.github.io/images/550.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dynamons-7",
+    "thumbnail": "https://learningworlds.github.io/images/551.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-simulator-crash-city",
+    "thumbnail": "https://learningworlds.github.io/images/552.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roglide-slide-match-blocks",
+    "thumbnail": "https://learningworlds.github.io/images/553.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ranch-adventures",
+    "thumbnail": "https://learningworlds.github.io/images/554.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "colorful-city-of-cards",
+    "thumbnail": "https://learningworlds.github.io/images/555.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ludo-world",
+    "thumbnail": "https://learningworlds.github.io/images/556.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "puzzle-about-orange",
+    "thumbnail": "https://learningworlds.github.io/images/557.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pizza-maker-cooking-games-for-kids",
+    "thumbnail": "https://learningworlds.github.io/images/558.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "bloom-sort-2-bee-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/559.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://learningworlds.github.io/images/560.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "genius-mechanic",
+    "thumbnail": "https://learningworlds.github.io/images/561.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hole-and-fill-collect-master",
+    "thumbnail": "https://learningworlds.github.io/images/562.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bouncy-barn",
+    "thumbnail": "https://learningworlds.github.io/images/563.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cute-sheep-skyblock",
+    "thumbnail": "https://learningworlds.github.io/images/564.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cross-connect-word",
+    "thumbnail": "https://learningworlds.github.io/images/565.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "algerian-solitaire",
+    "thumbnail": "https://learningworlds.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "derby-crash-3",
+    "thumbnail": "https://learningworlds.github.io/images/567.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "romantic-k-pop-transformation",
+    "thumbnail": "https://learningworlds.github.io/images/568.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "drop-some-fruits-xvd",
+    "thumbnail": "https://learningworlds.github.io/images/569.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "contract-deer-hunter",
+    "thumbnail": "https://learningworlds.github.io/images/570.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "parkinglot-rescue",
+    "thumbnail": "https://learningworlds.github.io/images/571.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "goddess-connect",
+    "thumbnail": "https://learningworlds.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "iza-s-supermarket",
+    "thumbnail": "https://learningworlds.github.io/images/573.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-pixel-apocalypse-3",
+    "thumbnail": "https://learningworlds.github.io/images/574.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ride-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/575.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "marble-run",
+    "thumbnail": "https://learningworlds.github.io/images/576.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "race-time",
+    "thumbnail": "https://learningworlds.github.io/images/577.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "bubble-up",
+    "thumbnail": "https://learningworlds.github.io/images/578.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mindblow",
+    "thumbnail": "https://learningworlds.github.io/images/579.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "catch-the-goose",
+    "thumbnail": "https://learningworlds.github.io/images/580.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "life-in-the-static",
+    "thumbnail": "https://learningworlds.github.io/images/581.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-brige-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/582.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sbaloon",
+    "thumbnail": "https://learningworlds.github.io/images/583.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tap-out-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/584.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "army-commander-craft",
+    "thumbnail": "https://learningworlds.github.io/images/585.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "pool-bubbles",
+    "thumbnail": "https://learningworlds.github.io/images/586.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diamond-dungeon---match-3",
+    "thumbnail": "https://learningworlds.github.io/images/587.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "99-nights-online",
+    "thumbnail": "https://learningworlds.github.io/images/588.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-football",
+    "thumbnail": "https://learningworlds.github.io/images/589.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "tram-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/590.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-big",
+    "thumbnail": "https://learningworlds.github.io/images/591.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "model-dress-up-girl-games",
+    "thumbnail": "https://learningworlds.github.io/images/592.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "happy-town",
+    "thumbnail": "https://learningworlds.github.io/images/593.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "biome-siege-wwb",
+    "thumbnail": "https://learningworlds.github.io/images/594.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fiveheads-soccer",
+    "thumbnail": "https://learningworlds.github.io/images/595.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cooking-stories-fun-cafe-game",
+    "thumbnail": "https://learningworlds.github.io/images/596.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://learningworlds.github.io/images/597.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "italian-animal-alchemy---brainrot",
+    "thumbnail": "https://learningworlds.github.io/images/598.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "oil-mining-3d---petrol-factory",
+    "thumbnail": "https://learningworlds.github.io/images/599.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sokoban-pr",
+    "thumbnail": "https://learningworlds.github.io/images/600.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-range-3d",
+    "thumbnail": "https://learningworlds.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-jam-3d",
+    "thumbnail": "https://learningworlds.github.io/images/602.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "modern-cannon-strike",
+    "thumbnail": "https://learningworlds.github.io/images/603.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-maze",
+    "thumbnail": "https://learningworlds.github.io/images/604.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jumping-rush-whg",
+    "thumbnail": "https://learningworlds.github.io/images/605.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "royal-bubble-blast",
+    "thumbnail": "https://learningworlds.github.io/images/606.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "iron-crusher",
+    "thumbnail": "https://learningworlds.github.io/images/607.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murderer",
+    "thumbnail": "https://learningworlds.github.io/images/608.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "trash-master-rpk",
+    "thumbnail": "https://learningworlds.github.io/images/609.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "summer-connect",
+    "thumbnail": "https://learningworlds.github.io/images/610.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "tiny-cars",
+    "thumbnail": "https://learningworlds.github.io/images/611.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "witchy-and-the-puzzle-adventures",
+    "thumbnail": "https://learningworlds.github.io/images/612.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "mr-mine-escape",
+    "thumbnail": "https://learningworlds.github.io/images/613.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "math-duck",
+    "thumbnail": "https://learningworlds.github.io/images/614.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-hunter",
+    "thumbnail": "https://learningworlds.github.io/images/615.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "fr-pripyat",
+    "thumbnail": "https://learningworlds.github.io/images/616.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jump-in-to-the-plane",
+    "thumbnail": "https://learningworlds.github.io/images/617.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "italian-brainrot-survive-parkour",
+    "thumbnail": "https://learningworlds.github.io/images/618.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "particle-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/619.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweet-and-fruity-makeup",
+    "thumbnail": "https://learningworlds.github.io/images/620.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robotik",
+    "thumbnail": "https://learningworlds.github.io/images/621.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billiard-diamond-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/622.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "domino-battle",
+    "thumbnail": "https://learningworlds.github.io/images/623.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "parrot-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/624.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "discover-the-city",
+    "thumbnail": "https://learningworlds.github.io/images/625.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "portal-of-doom-undead-rising",
+    "thumbnail": "https://learningworlds.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bombardino-crocodilo-terror-jumpscare",
+    "thumbnail": "https://learningworlds.github.io/images/627.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "trace",
+    "thumbnail": "https://learningworlds.github.io/images/628.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cursed-treasure-2",
+    "thumbnail": "https://learningworlds.github.io/images/629.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "roller-coaster-rush",
+    "thumbnail": "https://learningworlds.github.io/images/630.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hex-burst",
+    "thumbnail": "https://learningworlds.github.io/images/631.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prisoners-io",
+    "thumbnail": "https://learningworlds.github.io/images/632.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "light-bulb-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/633.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-ball-fall-lon",
+    "thumbnail": "https://learningworlds.github.io/images/634.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tavern-rumble-roguelike-card",
+    "thumbnail": "https://learningworlds.github.io/images/635.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "revenot-roguelike-action-rpg",
+    "thumbnail": "https://learningworlds.github.io/images/636.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "summer-spotlight-differences",
+    "thumbnail": "https://learningworlds.github.io/images/637.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "black-pink-black-friday-fever",
+    "thumbnail": "https://learningworlds.github.io/images/638.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "code-maze",
+    "thumbnail": "https://learningworlds.github.io/images/639.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "art-of-alchemy-merge-elements",
+    "thumbnail": "https://learningworlds.github.io/images/640.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heroic-battle",
+    "thumbnail": "https://learningworlds.github.io/images/641.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kingdom-match",
+    "thumbnail": "https://learningworlds.github.io/images/642.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "epic-racing---descent-on-cars",
+    "thumbnail": "https://learningworlds.github.io/images/643.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-with-friends-online",
+    "thumbnail": "https://learningworlds.github.io/images/644.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-merge-valley",
+    "thumbnail": "https://learningworlds.github.io/images/645.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ragdoll-mania",
+    "thumbnail": "https://learningworlds.github.io/images/646.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "catch-brainrots-from-bosses",
+    "thumbnail": "https://learningworlds.github.io/images/647.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "graduation-makeup-trends",
+    "thumbnail": "https://learningworlds.github.io/images/648.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fish-rain-2",
+    "thumbnail": "https://learningworlds.github.io/images/649.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "brainrot-hook-swing",
+    "thumbnail": "https://learningworlds.github.io/images/650.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "21a",
+    "thumbnail": "https://learningworlds.github.io/images/651.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "horror-forest-bear",
+    "thumbnail": "https://learningworlds.github.io/images/652.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "kick-loser",
+    "thumbnail": "https://learningworlds.github.io/images/653.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-earth",
+    "thumbnail": "https://learningworlds.github.io/images/654.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-2048io",
+    "thumbnail": "https://learningworlds.github.io/images/655.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "sport-minibattles",
+    "thumbnail": "https://learningworlds.github.io/images/656.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometric-sniper---z",
+    "thumbnail": "https://learningworlds.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-block-gladiator-sword-draw",
+    "thumbnail": "https://learningworlds.github.io/images/658.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-thrower",
+    "thumbnail": "https://learningworlds.github.io/images/659.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scoring-champion",
+    "thumbnail": "https://learningworlds.github.io/images/660.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-in-style",
+    "thumbnail": "https://learningworlds.github.io/images/661.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "polytrack",
+    "thumbnail": "https://learningworlds.github.io/images/662.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fairyland-merge-and-magic",
+    "thumbnail": "https://learningworlds.github.io/images/663.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "abc-pizza-maker---cooking-game",
+    "thumbnail": "https://learningworlds.github.io/images/664.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/665.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "larry-world-xrl",
+    "thumbnail": "https://learningworlds.github.io/images/666.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "12-in-1-solitaire",
+    "thumbnail": "https://learningworlds.github.io/images/667.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "smash-the-car-to-pieces",
+    "thumbnail": "https://learningworlds.github.io/images/668.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "papa-s-burgeria",
+    "thumbnail": "https://learningworlds.github.io/images/669.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "climb-up",
+    "thumbnail": "https://learningworlds.github.io/images/670.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ragdoll-arena-2-player",
+    "thumbnail": "https://learningworlds.github.io/images/671.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "robbie-become-a-beast",
+    "thumbnail": "https://learningworlds.github.io/images/672.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "2048-drop-merge",
+    "thumbnail": "https://learningworlds.github.io/images/673.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "brutalmania-io",
+    "thumbnail": "https://learningworlds.github.io/images/674.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ink-inc-tattoo",
+    "thumbnail": "https://learningworlds.github.io/images/675.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wolf-life-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/676.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "grow-a-garden-online-offline",
+    "thumbnail": "https://learningworlds.github.io/images/677.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "flames-fortune",
+    "thumbnail": "https://learningworlds.github.io/images/678.webp",
+    "genre": "Cards, Strategy"
+  },
+  {
+    "id": "coin-stack-up",
+    "thumbnail": "https://learningworlds.github.io/images/679.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jeff-the-killer-lost-in-the-nightmare",
+    "thumbnail": "https://learningworlds.github.io/images/680.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pop-it-duel",
+    "thumbnail": "https://learningworlds.github.io/images/681.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basket-shot",
+    "thumbnail": "https://learningworlds.github.io/images/682.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "sniper-attack-3d-shooting-war",
+    "thumbnail": "https://learningworlds.github.io/images/683.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-mixer-idle",
+    "thumbnail": "https://learningworlds.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://learningworlds.github.io/images/685.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "computer-office-escape",
+    "thumbnail": "https://learningworlds.github.io/images/686.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "telekinesis-race-3d",
+    "thumbnail": "https://learningworlds.github.io/images/687.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aim-ninja",
+    "thumbnail": "https://learningworlds.github.io/images/688.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "snake-classic",
+    "thumbnail": "https://learningworlds.github.io/images/689.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-on-a-bike",
+    "thumbnail": "https://learningworlds.github.io/images/690.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "yukon-family-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/691.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-drawing-game-3d",
+    "thumbnail": "https://learningworlds.github.io/images/692.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tag-run",
+    "thumbnail": "https://learningworlds.github.io/images/693.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "iconic-halloween-costumes",
+    "thumbnail": "https://learningworlds.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "witch-pong",
+    "thumbnail": "https://learningworlds.github.io/images/695.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-of-the-soldiers-red-vs-blue",
+    "thumbnail": "https://learningworlds.github.io/images/696.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "human-mech",
+    "thumbnail": "https://learningworlds.github.io/images/697.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "colors-pins",
+    "thumbnail": "https://learningworlds.github.io/images/698.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "blackriver-mystery-hidden-objects",
+    "thumbnail": "https://learningworlds.github.io/images/699.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki",
+    "thumbnail": "https://learningworlds.github.io/images/700.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "seafaring-memory-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/701.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "dino-ranch",
+    "thumbnail": "https://learningworlds.github.io/images/702.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "cargo-path-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/703.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "cargo-truck-parking",
+    "thumbnail": "https://learningworlds.github.io/images/704.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shipbuilding-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/705.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "elemental-gloves-magic-power",
+    "thumbnail": "https://learningworlds.github.io/images/706.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "paperio-2",
+    "thumbnail": "https://learningworlds.github.io/images/707.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "hole-defense",
+    "thumbnail": "https://learningworlds.github.io/images/708.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "destiny-king-vtg",
+    "thumbnail": "https://learningworlds.github.io/images/709.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "thumbnail": "https://learningworlds.github.io/images/710.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gridpunk---3v3-battle-royale",
+    "thumbnail": "https://learningworlds.github.io/images/711.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-temple-jewels",
+    "thumbnail": "https://learningworlds.github.io/images/712.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "candy-bubble",
+    "thumbnail": "https://learningworlds.github.io/images/713.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/714.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "perfect-cake-maker",
+    "thumbnail": "https://learningworlds.github.io/images/715.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "build-a-queen-2025",
+    "thumbnail": "https://learningworlds.github.io/images/716.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "weapon-toss",
+    "thumbnail": "https://learningworlds.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-alchemy",
+    "thumbnail": "https://learningworlds.github.io/images/718.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-the-cat-cat-search",
+    "thumbnail": "https://learningworlds.github.io/images/719.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "push-io",
+    "thumbnail": "https://learningworlds.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "genius-car-2",
+    "thumbnail": "https://learningworlds.github.io/images/721.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-and-wizards-match",
+    "thumbnail": "https://learningworlds.github.io/images/722.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tankflow-io-ujm",
+    "thumbnail": "https://learningworlds.github.io/images/723.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "toss-the-ring",
+    "thumbnail": "https://learningworlds.github.io/images/724.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-6-differences-spot-the-hidden-changes",
+    "thumbnail": "https://learningworlds.github.io/images/725.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "royal-crown-blast",
+    "thumbnail": "https://learningworlds.github.io/images/726.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "just-slide-remastered",
+    "thumbnail": "https://learningworlds.github.io/images/727.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moscow-metro-driver-3d",
+    "thumbnail": "https://learningworlds.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-room-mystery-key",
+    "thumbnail": "https://learningworlds.github.io/images/729.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "makeup-fruits",
+    "thumbnail": "https://learningworlds.github.io/images/730.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "alphabet-merge-and-fight",
+    "thumbnail": "https://learningworlds.github.io/images/731.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "plumber",
+    "thumbnail": "https://learningworlds.github.io/images/732.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-tiktok-gravity-knife",
+    "thumbnail": "https://learningworlds.github.io/images/733.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-joe-unsolved-mystery-pno",
+    "thumbnail": "https://learningworlds.github.io/images/734.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tech-mart-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/736.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "cleanup-io",
+    "thumbnail": "https://learningworlds.github.io/images/737.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wizard-io",
+    "thumbnail": "https://learningworlds.github.io/images/738.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "buckshot-roulette",
+    "thumbnail": "https://learningworlds.github.io/images/739.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "sweetsu-tile-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/740.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fortunes-deck-solitaire",
+    "thumbnail": "https://learningworlds.github.io/images/741.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://learningworlds.github.io/images/742.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "anaconda-runner",
+    "thumbnail": "https://learningworlds.github.io/images/743.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "clash-of-warriors-ofd",
+    "thumbnail": "https://learningworlds.github.io/images/744.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "portal-hop",
+    "thumbnail": "https://learningworlds.github.io/images/745.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bbq-stack-run",
+    "thumbnail": "https://learningworlds.github.io/images/746.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "poopy-escape-the-prison",
+    "thumbnail": "https://learningworlds.github.io/images/747.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "color-cannon-idle",
+    "thumbnail": "https://learningworlds.github.io/images/748.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-stone",
+    "thumbnail": "https://learningworlds.github.io/images/749.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "2048-run-gorgeous-balls",
+    "thumbnail": "https://learningworlds.github.io/images/750.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "crazy-hill-climbing",
+    "thumbnail": "https://learningworlds.github.io/images/751.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "runefall",
+    "thumbnail": "https://learningworlds.github.io/images/752.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "burnin-rubber-5-xs",
+    "thumbnail": "https://learningworlds.github.io/images/753.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "epic-army-clash-jyr",
+    "thumbnail": "https://learningworlds.github.io/images/754.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "star-stuff",
+    "thumbnail": "https://learningworlds.github.io/images/755.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-farmer",
+    "thumbnail": "https://learningworlds.github.io/images/756.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duet-cats-halloween-cat-music",
+    "thumbnail": "https://learningworlds.github.io/images/757.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wreck-the-tower",
+    "thumbnail": "https://learningworlds.github.io/images/758.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "monster-world-fight-arena",
+    "thumbnail": "https://learningworlds.github.io/images/759.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "impossibe-date",
+    "thumbnail": "https://learningworlds.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-goods",
+    "thumbnail": "https://learningworlds.github.io/images/761.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "one-treasure",
+    "thumbnail": "https://learningworlds.github.io/images/762.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deck-adventurers-chapter-1",
+    "thumbnail": "https://learningworlds.github.io/images/763.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pet-trainer-duel",
+    "thumbnail": "https://learningworlds.github.io/images/764.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-strike-hfm",
+    "thumbnail": "https://learningworlds.github.io/images/765.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-living",
+    "thumbnail": "https://learningworlds.github.io/images/766.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minimine",
+    "thumbnail": "https://learningworlds.github.io/images/767.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-dragons-vs-knights",
+    "thumbnail": "https://learningworlds.github.io/images/768.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "anomaly-content-record",
+    "thumbnail": "https://learningworlds.github.io/images/769.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gta-car-rush",
+    "thumbnail": "https://learningworlds.github.io/images/770.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "mineclicker",
+    "thumbnail": "https://learningworlds.github.io/images/771.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traitor-beaver",
+    "thumbnail": "https://learningworlds.github.io/images/772.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-rock-climber",
+    "thumbnail": "https://learningworlds.github.io/images/773.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fire-and-water-birds",
+    "thumbnail": "https://learningworlds.github.io/images/774.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "plant-merge-zombie-war",
+    "thumbnail": "https://learningworlds.github.io/images/775.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "crazy-dummy-swing-multiplayer",
+    "thumbnail": "https://learningworlds.github.io/images/776.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tap-reveal",
+    "thumbnail": "https://learningworlds.github.io/images/777.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-snack-bar",
+    "thumbnail": "https://learningworlds.github.io/images/778.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "c-virus-game-outbreak",
+    "thumbnail": "https://learningworlds.github.io/images/779.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "orbitdrop",
+    "thumbnail": "https://learningworlds.github.io/images/780.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "single-line-puzzle-drawing",
+    "thumbnail": "https://learningworlds.github.io/images/781.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://learningworlds.github.io/images/782.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blast-stack",
+    "thumbnail": "https://learningworlds.github.io/images/783.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flick-n-bounce",
+    "thumbnail": "https://learningworlds.github.io/images/784.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "swat-cats-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/785.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "matching-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/786.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "real-driving-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/787.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "devil-dash",
+    "thumbnail": "https://learningworlds.github.io/images/788.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://learningworlds.github.io/images/789.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cat-life-simulator-devil-cat",
+    "thumbnail": "https://learningworlds.github.io/images/790.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultimate-brainrot-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/791.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-assassin-government-agent",
+    "thumbnail": "https://learningworlds.github.io/images/792.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "air-hockey-cup",
+    "thumbnail": "https://learningworlds.github.io/images/793.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bitcoiner-dth",
+    "thumbnail": "https://learningworlds.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "just-slap-it",
+    "thumbnail": "https://learningworlds.github.io/images/795.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "electron-dash",
+    "thumbnail": "https://learningworlds.github.io/images/796.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://learningworlds.github.io/images/797.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "squid-game-3d",
+    "thumbnail": "https://learningworlds.github.io/images/798.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "match-fighter",
+    "thumbnail": "https://learningworlds.github.io/images/799.webp",
+    "genre": "Battle, Match-3"
+  },
+  {
+    "id": "bus-escape-clear-jam",
+    "thumbnail": "https://learningworlds.github.io/images/800.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squirrel-with-a-gun",
+    "thumbnail": "https://learningworlds.github.io/images/801.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "strongblade",
+    "thumbnail": "https://learningworlds.github.io/images/802.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "model-wedding---girls-games",
+    "thumbnail": "https://learningworlds.github.io/images/803.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spot-differences-bird-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/804.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "lazy-jumper",
+    "thumbnail": "https://learningworlds.github.io/images/805.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robbie-stand-on-the-right-color",
+    "thumbnail": "https://learningworlds.github.io/images/806.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "giant-crowd-io-house-capture",
+    "thumbnail": "https://learningworlds.github.io/images/807.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "penalty-superstar",
+    "thumbnail": "https://learningworlds.github.io/images/808.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-missing-part-dop-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/809.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "settlers-of-albion",
+    "thumbnail": "https://learningworlds.github.io/images/810.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "frost-land",
+    "thumbnail": "https://learningworlds.github.io/images/811.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "worlds-hardest-game-2",
+    "thumbnail": "https://learningworlds.github.io/images/812.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-climber",
+    "thumbnail": "https://learningworlds.github.io/images/813.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mafia-billiard-tricks",
+    "thumbnail": "https://learningworlds.github.io/images/814.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://learningworlds.github.io/images/815.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "moto-x3m-4",
+    "thumbnail": "https://learningworlds.github.io/images/816.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hero-battle---fantasy-arena",
+    "thumbnail": "https://learningworlds.github.io/images/817.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "medieval-arena",
+    "thumbnail": "https://learningworlds.github.io/images/818.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-battle-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/819.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-pet",
+    "thumbnail": "https://learningworlds.github.io/images/820.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "egg-adventure-mirror-world",
+    "thumbnail": "https://learningworlds.github.io/images/821.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "riders-downhill-racing",
+    "thumbnail": "https://learningworlds.github.io/images/822.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gold-rush",
+    "thumbnail": "https://learningworlds.github.io/images/823.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "teacher-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/824.webp",
+    "genre": "Quiz, Simulation"
+  },
+  {
+    "id": "upside-down",
+    "thumbnail": "https://learningworlds.github.io/images/825.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "wild-hunting-clash",
+    "thumbnail": "https://learningworlds.github.io/images/826.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "celebrity-spring-fashion-trends",
+    "thumbnail": "https://learningworlds.github.io/images/827.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "uncle-hit-punch-the-dummy",
+    "thumbnail": "https://learningworlds.github.io/images/828.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "daily-jewels-blitz-mahjong",
+    "thumbnail": "https://learningworlds.github.io/images/829.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "duck-duck-clicker-ixu",
+    "thumbnail": "https://learningworlds.github.io/images/830.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-kissing",
+    "thumbnail": "https://learningworlds.github.io/images/831.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-rush-the-fish-war",
+    "thumbnail": "https://learningworlds.github.io/images/832.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cs-command-snipers",
+    "thumbnail": "https://learningworlds.github.io/images/833.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "house-of-celestina",
+    "thumbnail": "https://learningworlds.github.io/images/834.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-maker",
+    "thumbnail": "https://learningworlds.github.io/images/835.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "match-3-dream-room",
+    "thumbnail": "https://learningworlds.github.io/images/836.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fighter-legends-duo",
+    "thumbnail": "https://learningworlds.github.io/images/837.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archer-go",
+    "thumbnail": "https://learningworlds.github.io/images/838.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "high-school-popular-games",
+    "thumbnail": "https://learningworlds.github.io/images/839.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cartoon-moto-stunt",
+    "thumbnail": "https://learningworlds.github.io/images/840.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-bus",
+    "thumbnail": "https://learningworlds.github.io/images/841.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-beauty-clinic",
+    "thumbnail": "https://learningworlds.github.io/images/842.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "maze-escape-toilet-rush",
+    "thumbnail": "https://learningworlds.github.io/images/843.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minecube",
+    "thumbnail": "https://learningworlds.github.io/images/844.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "western-shooter-battle-gun-duel",
+    "thumbnail": "https://learningworlds.github.io/images/845.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nsr-street-car-racing",
+    "thumbnail": "https://learningworlds.github.io/images/846.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "paris-kiss",
+    "thumbnail": "https://learningworlds.github.io/images/847.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "memerot-sort-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/848.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-bodyguard",
+    "thumbnail": "https://learningworlds.github.io/images/849.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "merge-blocks-2048",
+    "thumbnail": "https://learningworlds.github.io/images/850.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-the-ghost-cat",
+    "thumbnail": "https://learningworlds.github.io/images/851.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "money-cannon",
+    "thumbnail": "https://learningworlds.github.io/images/852.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-your-nightmare-the-beginning",
+    "thumbnail": "https://learningworlds.github.io/images/853.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://learningworlds.github.io/images/854.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://learningworlds.github.io/images/855.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "perfect-shot",
+    "thumbnail": "https://learningworlds.github.io/images/856.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "gun-match-screw",
+    "thumbnail": "https://learningworlds.github.io/images/857.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "charger-city-driver",
+    "thumbnail": "https://learningworlds.github.io/images/858.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "elevator-room-escape",
+    "thumbnail": "https://learningworlds.github.io/images/859.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grocery-kart",
+    "thumbnail": "https://learningworlds.github.io/images/860.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-x3m-spooky-land",
+    "thumbnail": "https://learningworlds.github.io/images/861.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-classic",
+    "thumbnail": "https://learningworlds.github.io/images/862.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "bad-cat---granny-s-return",
+    "thumbnail": "https://learningworlds.github.io/images/863.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "no-limits-drag-racing",
+    "thumbnail": "https://learningworlds.github.io/images/864.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-mart",
+    "thumbnail": "https://learningworlds.github.io/images/865.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bounce-out",
+    "thumbnail": "https://learningworlds.github.io/images/866.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-trendy-mermaid",
+    "thumbnail": "https://learningworlds.github.io/images/867.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "chihuahua-clicker-hku",
+    "thumbnail": "https://learningworlds.github.io/images/868.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://learningworlds.github.io/images/869.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "room-escape-strange-case",
+    "thumbnail": "https://learningworlds.github.io/images/870.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gt-formula-championship",
+    "thumbnail": "https://learningworlds.github.io/images/871.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "energy-factory-idle",
+    "thumbnail": "https://learningworlds.github.io/images/872.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pixel-gun-3d",
+    "thumbnail": "https://learningworlds.github.io/images/873.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "harley-learns-to-love",
+    "thumbnail": "https://learningworlds.github.io/images/874.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "killover-qjn",
+    "thumbnail": "https://learningworlds.github.io/images/875.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-cube-shooting-merge",
+    "thumbnail": "https://learningworlds.github.io/images/876.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "butterfly-triple",
+    "thumbnail": "https://learningworlds.github.io/images/877.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-block-pop-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/878.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "ants-empire-evolve-sim",
+    "thumbnail": "https://learningworlds.github.io/images/879.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/880.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "boxing-gang-stars",
+    "thumbnail": "https://learningworlds.github.io/images/881.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "escape-from-the-bunker-survival",
+    "thumbnail": "https://learningworlds.github.io/images/882.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snowboard-game-party",
+    "thumbnail": "https://learningworlds.github.io/images/883.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "pet-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/884.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "one-line-drawing",
+    "thumbnail": "https://learningworlds.github.io/images/885.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bank-robbery-2",
+    "thumbnail": "https://learningworlds.github.io/images/886.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-halloween-danger-skate",
+    "thumbnail": "https://learningworlds.github.io/images/887.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "turbo-race-3d",
+    "thumbnail": "https://learningworlds.github.io/images/888.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "valentines-hidden-alphawords",
+    "thumbnail": "https://learningworlds.github.io/images/889.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hide-and-build-a-bridge",
+    "thumbnail": "https://learningworlds.github.io/images/890.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cyber-arrow",
+    "thumbnail": "https://learningworlds.github.io/images/891.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "time-to-park",
+    "thumbnail": "https://learningworlds.github.io/images/892.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "radiant-rush",
+    "thumbnail": "https://learningworlds.github.io/images/893.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "best-friends-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/894.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/895.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "wedding-coloring-dress-up-game",
+    "thumbnail": "https://learningworlds.github.io/images/896.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bottle-flip-idle",
+    "thumbnail": "https://learningworlds.github.io/images/897.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "count-and-bounce",
+    "thumbnail": "https://learningworlds.github.io/images/898.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cricket-clash",
+    "thumbnail": "https://learningworlds.github.io/images/899.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "python-snake-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/900.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzles-balls-merge-the-new-year",
+    "thumbnail": "https://learningworlds.github.io/images/901.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-blast",
+    "thumbnail": "https://learningworlds.github.io/images/902.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "shanghai-chef",
+    "thumbnail": "https://learningworlds.github.io/images/903.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "flywheel-incremental",
+    "thumbnail": "https://learningworlds.github.io/images/904.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gulag",
+    "thumbnail": "https://learningworlds.github.io/images/905.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "black-cat-stacking-pop",
+    "thumbnail": "https://learningworlds.github.io/images/906.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-blast-2048",
+    "thumbnail": "https://learningworlds.github.io/images/907.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "project-proxy---cyber-girls-warfare",
+    "thumbnail": "https://learningworlds.github.io/images/908.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shadow-bullet",
+    "thumbnail": "https://learningworlds.github.io/images/909.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery-escape",
+    "thumbnail": "https://learningworlds.github.io/images/910.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrow-count-master",
+    "thumbnail": "https://learningworlds.github.io/images/911.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ants-fruits",
+    "thumbnail": "https://learningworlds.github.io/images/912.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robot-unicorn-attack",
+    "thumbnail": "https://learningworlds.github.io/images/913.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "powerline-guardians",
+    "thumbnail": "https://learningworlds.github.io/images/914.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "adventure-ball",
+    "thumbnail": "https://learningworlds.github.io/images/915.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "billythebox",
+    "thumbnail": "https://learningworlds.github.io/images/916.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "aventador-vice-crime-city",
+    "thumbnail": "https://learningworlds.github.io/images/917.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "office-knight-3d-castle-defense",
+    "thumbnail": "https://learningworlds.github.io/images/918.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "capybara-skewer-match",
+    "thumbnail": "https://learningworlds.github.io/images/919.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-world",
+    "thumbnail": "https://learningworlds.github.io/images/920.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-magic-academy-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/921.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gangster-crimes-online-6-mafia-city",
+    "thumbnail": "https://learningworlds.github.io/images/922.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-heroes",
+    "thumbnail": "https://learningworlds.github.io/images/923.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "chocolate-dream-idle-factory",
+    "thumbnail": "https://learningworlds.github.io/images/924.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "aquapark-io-yky",
+    "thumbnail": "https://learningworlds.github.io/images/925.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pulse-ball",
+    "thumbnail": "https://learningworlds.github.io/images/926.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emerland-solitaire-endless-journey",
+    "thumbnail": "https://learningworlds.github.io/images/927.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wodr",
+    "thumbnail": "https://learningworlds.github.io/images/928.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://learningworlds.github.io/images/929.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spooky-chains",
+    "thumbnail": "https://learningworlds.github.io/images/930.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://learningworlds.github.io/images/931.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "bum-ben",
+    "thumbnail": "https://learningworlds.github.io/images/932.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-water-vs-fire",
+    "thumbnail": "https://learningworlds.github.io/images/933.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "street-racing-moto-drift",
+    "thumbnail": "https://learningworlds.github.io/images/934.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "mini-jumps",
+    "thumbnail": "https://learningworlds.github.io/images/935.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "think-to-escape-2",
+    "thumbnail": "https://learningworlds.github.io/images/936.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://learningworlds.github.io/images/937.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "color-nonogram-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/938.webp",
+    "genre": "Puzzle, Simulation"
+  },
+  {
+    "id": "build-a-go-kart",
+    "thumbnail": "https://learningworlds.github.io/images/939.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "speedy-golf",
+    "thumbnail": "https://learningworlds.github.io/images/940.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-boy-bazooka-ragdoll",
+    "thumbnail": "https://learningworlds.github.io/images/941.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://learningworlds.github.io/images/942.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tropical-merge",
+    "thumbnail": "https://learningworlds.github.io/images/943.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "autogun-heroes-izk",
+    "thumbnail": "https://learningworlds.github.io/images/944.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-printers",
+    "thumbnail": "https://learningworlds.github.io/images/945.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pixel-sphere-3d",
+    "thumbnail": "https://learningworlds.github.io/images/946.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supertrip-land",
+    "thumbnail": "https://learningworlds.github.io/images/947.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-space-episode-ii",
+    "thumbnail": "https://learningworlds.github.io/images/948.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "uprunner",
+    "thumbnail": "https://learningworlds.github.io/images/949.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "line-game-eeg",
+    "thumbnail": "https://learningworlds.github.io/images/950.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "italian-brainrot-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/951.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-search-universe-easter",
+    "thumbnail": "https://learningworlds.github.io/images/952.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "kitty-squad-winter-dress-up",
+    "thumbnail": "https://learningworlds.github.io/images/953.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fox-coin-match",
+    "thumbnail": "https://learningworlds.github.io/images/954.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pangolick-quest",
+    "thumbnail": "https://learningworlds.github.io/images/955.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "suika-watermelon-drop",
+    "thumbnail": "https://learningworlds.github.io/images/956.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://learningworlds.github.io/images/957.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "block-puzzle-tropical-story",
+    "thumbnail": "https://learningworlds.github.io/images/958.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "survival-zone-zombie-outbreak",
+    "thumbnail": "https://learningworlds.github.io/images/959.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-disc-slingshot-strike",
+    "thumbnail": "https://learningworlds.github.io/images/960.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "lazergrrl",
+    "thumbnail": "https://learningworlds.github.io/images/961.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "volley-bean",
+    "thumbnail": "https://learningworlds.github.io/images/962.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "herochero-enemy-slayer",
+    "thumbnail": "https://learningworlds.github.io/images/963.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-war",
+    "thumbnail": "https://learningworlds.github.io/images/964.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "candy-cascade",
+    "thumbnail": "https://learningworlds.github.io/images/965.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "find-it-out-colorful-book",
+    "thumbnail": "https://learningworlds.github.io/images/966.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ice-fishing-3d",
+    "thumbnail": "https://learningworlds.github.io/images/967.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "office-escape-to-date",
+    "thumbnail": "https://learningworlds.github.io/images/968.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fish-feeding",
+    "thumbnail": "https://learningworlds.github.io/images/969.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "marina-fever-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/970.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-orbit",
+    "thumbnail": "https://learningworlds.github.io/images/971.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "twisted-tangle-nmt",
+    "thumbnail": "https://learningworlds.github.io/images/972.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "knight-hero-adventure-idle-rpg",
+    "thumbnail": "https://learningworlds.github.io/images/973.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tracesoccer-ubc",
+    "thumbnail": "https://learningworlds.github.io/images/974.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-escape-prison",
+    "thumbnail": "https://learningworlds.github.io/images/975.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-garden-journey",
+    "thumbnail": "https://learningworlds.github.io/images/976.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "nautilus-spaceship-escape",
+    "thumbnail": "https://learningworlds.github.io/images/977.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "merge-cannon-number-blast",
+    "thumbnail": "https://learningworlds.github.io/images/978.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://learningworlds.github.io/images/979.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ragdoll-bob-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/980.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sniper-shooter-2",
+    "thumbnail": "https://learningworlds.github.io/images/981.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "zombie-conquer-countries",
+    "thumbnail": "https://learningworlds.github.io/images/982.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "royal-garden-match-2",
+    "thumbnail": "https://learningworlds.github.io/images/983.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pixel-mine-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "red-light-green-light",
+    "thumbnail": "https://learningworlds.github.io/images/985.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "classic-card-games-collection",
+    "thumbnail": "https://learningworlds.github.io/images/986.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-guess-game",
+    "thumbnail": "https://learningworlds.github.io/images/987.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dino-idle-park",
+    "thumbnail": "https://learningworlds.github.io/images/988.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "noob-island-escape",
+    "thumbnail": "https://learningworlds.github.io/images/989.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-block-fusion",
+    "thumbnail": "https://learningworlds.github.io/images/990.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tower-crush",
+    "thumbnail": "https://learningworlds.github.io/images/991.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slide-stone",
+    "thumbnail": "https://learningworlds.github.io/images/992.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "last-day-on-earth-survival",
+    "thumbnail": "https://learningworlds.github.io/images/993.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "metal-guns-fury",
+    "thumbnail": "https://learningworlds.github.io/images/994.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clicker-knights-vs-dragons",
+    "thumbnail": "https://learningworlds.github.io/images/995.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "darts-club",
+    "thumbnail": "https://learningworlds.github.io/images/996.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drop-kick-world-cup-2018",
+    "thumbnail": "https://learningworlds.github.io/images/997.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-europe-quiz",
+    "thumbnail": "https://learningworlds.github.io/images/998.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-tactics-destruction",
+    "thumbnail": "https://learningworlds.github.io/images/999.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "falling-ball",
+    "thumbnail": "https://learningworlds.github.io/images/1000.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-cop-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1001.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "brain-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/1002.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "cool-kingdom",
+    "thumbnail": "https://learningworlds.github.io/images/1003.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "underwater-survival",
+    "thumbnail": "https://learningworlds.github.io/images/1004.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dunk-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/1005.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "serious-head",
+    "thumbnail": "https://learningworlds.github.io/images/1006.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazyzombies-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1007.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "brainrot-click-to-hatch",
+    "thumbnail": "https://learningworlds.github.io/images/1008.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://learningworlds.github.io/images/1009.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "spades",
+    "thumbnail": "https://learningworlds.github.io/images/1010.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logistics-inc",
+    "thumbnail": "https://learningworlds.github.io/images/1011.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aqua-miner-underwater-drilling-game",
+    "thumbnail": "https://learningworlds.github.io/images/1012.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "offroad-master",
+    "thumbnail": "https://learningworlds.github.io/images/1013.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "lol-surprise-game-zone",
+    "thumbnail": "https://learningworlds.github.io/images/1014.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "bffs-y2k-fashion",
+    "thumbnail": "https://learningworlds.github.io/images/1015.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "imposter-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1016.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "bubble-classic",
+    "thumbnail": "https://learningworlds.github.io/images/1017.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "catty-s-fishing-day",
+    "thumbnail": "https://learningworlds.github.io/images/1018.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gulper-io",
+    "thumbnail": "https://learningworlds.github.io/images/1019.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-go",
+    "thumbnail": "https://learningworlds.github.io/images/1020.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "racer-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/1021.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "offroad-muddy-trucks",
+    "thumbnail": "https://learningworlds.github.io/images/1022.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cake-sort",
+    "thumbnail": "https://learningworlds.github.io/images/1023.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "road-madness",
+    "thumbnail": "https://learningworlds.github.io/images/1024.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flying-road",
+    "thumbnail": "https://learningworlds.github.io/images/1025.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://learningworlds.github.io/images/1026.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mahjong-slide-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1027.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "geometry-dash-maze-maps-v2",
+    "thumbnail": "https://learningworlds.github.io/images/1028.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "x-trench-run",
+    "thumbnail": "https://learningworlds.github.io/images/1029.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-brawler",
+    "thumbnail": "https://learningworlds.github.io/images/1030.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "good-doggo",
+    "thumbnail": "https://learningworlds.github.io/images/1031.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sublocku",
+    "thumbnail": "https://learningworlds.github.io/images/1032.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "twilight-solitaire-tripeaks",
+    "thumbnail": "https://learningworlds.github.io/images/1033.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "super-soccer-noggins",
+    "thumbnail": "https://learningworlds.github.io/images/1034.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "ohpeach-it",
+    "thumbnail": "https://learningworlds.github.io/images/1035.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "pinturillo",
+    "thumbnail": "https://learningworlds.github.io/images/1036.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murder-mafia",
+    "thumbnail": "https://learningworlds.github.io/images/1037.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "backrooms-skibidi-terrors",
+    "thumbnail": "https://learningworlds.github.io/images/1038.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "oh-my-goth",
+    "thumbnail": "https://learningworlds.github.io/images/1039.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "popcorn-fun-factory",
+    "thumbnail": "https://learningworlds.github.io/images/1040.webp",
+    "genre": "Cooking, Casual"
+  },
+  {
+    "id": "fashionista-avatar-studio-dress-up",
+    "thumbnail": "https://learningworlds.github.io/images/1041.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "color-3d-bump-it-up",
+    "thumbnail": "https://learningworlds.github.io/images/1042.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultimate-yatzy",
+    "thumbnail": "https://learningworlds.github.io/images/1043.webp",
+    "genre": "Boardgames, Strategy"
+  },
+  {
+    "id": "shadowman-runner",
+    "thumbnail": "https://learningworlds.github.io/images/1044.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "food-merge",
+    "thumbnail": "https://learningworlds.github.io/images/1045.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "mine-blocks",
+    "thumbnail": "https://learningworlds.github.io/images/1046.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fishing-the-russian-way",
+    "thumbnail": "https://learningworlds.github.io/images/1047.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "juice-merge",
+    "thumbnail": "https://learningworlds.github.io/images/1048.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "delicious-emilys-new-beginning-valentines-edition",
+    "thumbnail": "https://learningworlds.github.io/images/1049.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "crash-car-parkour-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/1050.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "rocket-fest",
+    "thumbnail": "https://learningworlds.github.io/images/1051.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "mr-stickman-gunner",
+    "thumbnail": "https://learningworlds.github.io/images/1052.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "merge-town",
+    "thumbnail": "https://learningworlds.github.io/images/1053.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "crush-the-eggs",
+    "thumbnail": "https://learningworlds.github.io/images/1054.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "push-to-go",
+    "thumbnail": "https://learningworlds.github.io/images/1055.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "woodland-slide",
+    "thumbnail": "https://learningworlds.github.io/images/1056.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cartoon-moto-stunt",
+    "thumbnail": "https://learningworlds.github.io/images/1057.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "peckshot",
+    "thumbnail": "https://learningworlds.github.io/images/1058.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "super-brain",
+    "thumbnail": "https://learningworlds.github.io/images/1059.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "castle-keeper",
+    "thumbnail": "https://learningworlds.github.io/images/1060.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "addiction-solitaire",
+    "thumbnail": "https://learningworlds.github.io/images/1061.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "hippo-supermarket",
+    "thumbnail": "https://learningworlds.github.io/images/1062.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "flip-knife",
+    "thumbnail": "https://learningworlds.github.io/images/1063.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vex-hyper-dash",
+    "thumbnail": "https://learningworlds.github.io/images/1064.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "fishing-clicker-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1065.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rope-stitch-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1066.webp",
+    "genre": "Puzzle, Art"
+  },
+  {
+    "id": "kuja",
+    "thumbnail": "https://learningworlds.github.io/images/1067.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "looping-monsters",
+    "thumbnail": "https://learningworlds.github.io/images/1068.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "duckpark-io",
+    "thumbnail": "https://learningworlds.github.io/images/1069.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "champions-fc",
+    "thumbnail": "https://learningworlds.github.io/images/1070.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "space-museum-escape",
+    "thumbnail": "https://learningworlds.github.io/images/1071.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "back-to-school-uniforms-edition",
+    "thumbnail": "https://learningworlds.github.io/images/1072.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "one-shot-tower-physics-destroyer",
+    "thumbnail": "https://learningworlds.github.io/images/1073.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cemetery-warrior-4",
+    "thumbnail": "https://learningworlds.github.io/images/1074.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-ring-sorting-match",
+    "thumbnail": "https://learningworlds.github.io/images/1075.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "falling-party",
+    "thumbnail": "https://learningworlds.github.io/images/1076.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sword-play-ninja-slice-runner",
+    "thumbnail": "https://learningworlds.github.io/images/1077.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pirate-noob-apocalypse",
+    "thumbnail": "https://learningworlds.github.io/images/1078.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "freak-taxi-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/1079.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dragon-island-idle-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1080.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mouse-warriors",
+    "thumbnail": "https://learningworlds.github.io/images/1081.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snake-puzzle-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1082.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-walking-deadblocks",
+    "thumbnail": "https://learningworlds.github.io/images/1083.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "match-dream-garden",
+    "thumbnail": "https://learningworlds.github.io/images/1084.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "wording",
+    "thumbnail": "https://learningworlds.github.io/images/1085.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashion-famous",
+    "thumbnail": "https://learningworlds.github.io/images/1086.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-blade-magic",
+    "thumbnail": "https://learningworlds.github.io/images/1087.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forge-and-fortune",
+    "thumbnail": "https://learningworlds.github.io/images/1088.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-printer",
+    "thumbnail": "https://learningworlds.github.io/images/1089.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chill-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/1090.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ascent-of-echoes",
+    "thumbnail": "https://learningworlds.github.io/images/1091.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ocean-kids-back-to-school",
+    "thumbnail": "https://learningworlds.github.io/images/1092.webp",
+    "genre": "Art, Dress-up"
+  },
+  {
+    "id": "parking-frenzy",
+    "thumbnail": "https://learningworlds.github.io/images/1093.webp",
+    "genre": "Puzzle, Racing & Driving"
+  },
+  {
+    "id": "block-stacking",
+    "thumbnail": "https://learningworlds.github.io/images/1094.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bot-bumper",
+    "thumbnail": "https://learningworlds.github.io/images/1095.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "picture-puzzles",
+    "thumbnail": "https://learningworlds.github.io/images/1096.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cow-jam-farm-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1097.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "the-illusionist-s-dream",
+    "thumbnail": "https://learningworlds.github.io/images/1098.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bus-parking-out",
+    "thumbnail": "https://learningworlds.github.io/images/1099.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "my-city-hospital",
+    "thumbnail": "https://learningworlds.github.io/images/1100.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "catch-tiles-piano-game",
+    "thumbnail": "https://learningworlds.github.io/images/1101.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://learningworlds.github.io/images/1102.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-object-clues-and-mysteries",
+    "thumbnail": "https://learningworlds.github.io/images/1103.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1104.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fallling-jewels",
+    "thumbnail": "https://learningworlds.github.io/images/1105.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-road-shooter-with-destruction",
+    "thumbnail": "https://learningworlds.github.io/images/1106.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "marble-merge",
+    "thumbnail": "https://learningworlds.github.io/images/1107.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-a-path-to-the-finish-line",
+    "thumbnail": "https://learningworlds.github.io/images/1108.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sqube-darkness",
+    "thumbnail": "https://learningworlds.github.io/images/1109.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "soccer-arena-x",
+    "thumbnail": "https://learningworlds.github.io/images/1110.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyber-rolling-going-ball-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1111.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "desert-rover-survival",
+    "thumbnail": "https://learningworlds.github.io/images/1112.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "phone-case-diy-run",
+    "thumbnail": "https://learningworlds.github.io/images/1113.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "word-chef",
+    "thumbnail": "https://learningworlds.github.io/images/1114.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "last-plant-on-earth",
+    "thumbnail": "https://learningworlds.github.io/images/1115.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-the-vampire",
+    "thumbnail": "https://learningworlds.github.io/images/1116.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "shoe-race",
+    "thumbnail": "https://learningworlds.github.io/images/1117.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stolen-house",
+    "thumbnail": "https://learningworlds.github.io/images/1118.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-cream-cafe",
+    "thumbnail": "https://learningworlds.github.io/images/1119.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-horror-story",
+    "thumbnail": "https://learningworlds.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "horror-escape-granny-room",
+    "thumbnail": "https://learningworlds.github.io/images/1121.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "wheelie-up",
+    "thumbnail": "https://learningworlds.github.io/images/1122.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-clicker-runner",
+    "thumbnail": "https://learningworlds.github.io/images/1123.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jailbreak-escape-from-prison",
+    "thumbnail": "https://learningworlds.github.io/images/1124.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "obby-tame-the-legendary-dragon",
+    "thumbnail": "https://learningworlds.github.io/images/1125.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mutant-idle",
+    "thumbnail": "https://learningworlds.github.io/images/1126.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-beats",
+    "thumbnail": "https://learningworlds.github.io/images/1127.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "otu",
+    "thumbnail": "https://learningworlds.github.io/images/1128.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "park-them-all",
+    "thumbnail": "https://learningworlds.github.io/images/1129.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "escape-road-2",
+    "thumbnail": "https://learningworlds.github.io/images/1130.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "durak",
+    "thumbnail": "https://learningworlds.github.io/images/1131.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "snake-vs-block",
+    "thumbnail": "https://learningworlds.github.io/images/1132.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swordsman-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/1133.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "pixel-combat-zombies-strike",
+    "thumbnail": "https://learningworlds.github.io/images/1134.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brain-tricks-brain-games",
+    "thumbnail": "https://learningworlds.github.io/images/1135.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-derby-2-kya",
+    "thumbnail": "https://learningworlds.github.io/images/1136.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-eats-car-underwater-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/1137.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "meme-mythwukong",
+    "thumbnail": "https://learningworlds.github.io/images/1138.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-crafting-empire-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/1139.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "funny-shooter---destroy-all",
+    "thumbnail": "https://learningworlds.github.io/images/1140.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "thief-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1141.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://learningworlds.github.io/images/1142.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "feeling-arrow",
+    "thumbnail": "https://learningworlds.github.io/images/1143.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forest-survivor-rougelike",
+    "thumbnail": "https://learningworlds.github.io/images/1144.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "rotcalypse-idle-incremental",
+    "thumbnail": "https://learningworlds.github.io/images/1145.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-car-stunts",
+    "thumbnail": "https://learningworlds.github.io/images/1146.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cube-stories-escape",
+    "thumbnail": "https://learningworlds.github.io/images/1147.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "archer-ragdoll-masters",
+    "thumbnail": "https://learningworlds.github.io/images/1148.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "annoying-uncle-punch-game",
+    "thumbnail": "https://learningworlds.github.io/images/1149.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-cyber-city",
+    "thumbnail": "https://learningworlds.github.io/images/1150.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kick-the-noobik-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1151.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-boom-space-destroy-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1152.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ugc-math-race",
+    "thumbnail": "https://learningworlds.github.io/images/1153.webp",
+    "genre": ".IO, Educational"
+  },
+  {
+    "id": "zombie-mission-survivor",
+    "thumbnail": "https://learningworlds.github.io/images/1154.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "asmr-makeover-makeup-studio",
+    "thumbnail": "https://learningworlds.github.io/images/1155.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cat-life-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/1156.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cool-orange-ball-bounce-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/1157.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mirrorland",
+    "thumbnail": "https://learningworlds.github.io/images/1158.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "max-mixed-cocktails",
+    "thumbnail": "https://learningworlds.github.io/images/1159.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kaboom-miner",
+    "thumbnail": "https://learningworlds.github.io/images/1160.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "sprunki-clicker-merge-phase-3",
+    "thumbnail": "https://learningworlds.github.io/images/1161.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "survive-the-disasters-obby",
+    "thumbnail": "https://learningworlds.github.io/images/1162.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zen-tile",
+    "thumbnail": "https://learningworlds.github.io/images/1163.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fly-me-hard",
+    "thumbnail": "https://learningworlds.github.io/images/1164.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-the-cow-lqn",
+    "thumbnail": "https://learningworlds.github.io/images/1165.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "haunted-school-2---horror-game",
+    "thumbnail": "https://learningworlds.github.io/images/1166.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-gun-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/1167.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-jam-association-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1168.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "3-tiles",
+    "thumbnail": "https://learningworlds.github.io/images/1169.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "candy-match-4",
+    "thumbnail": "https://learningworlds.github.io/images/1170.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "lorenzo-the-runner",
+    "thumbnail": "https://learningworlds.github.io/images/1171.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bomby",
+    "thumbnail": "https://learningworlds.github.io/images/1172.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "felon-play-ragdoll-sandbox-ffi",
+    "thumbnail": "https://learningworlds.github.io/images/1173.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "infinity-toower",
+    "thumbnail": "https://learningworlds.github.io/images/1174.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spirit-guardians",
+    "thumbnail": "https://learningworlds.github.io/images/1175.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "free-hoops",
+    "thumbnail": "https://learningworlds.github.io/images/1176.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "piles-of-mahjong-jhb",
+    "thumbnail": "https://learningworlds.github.io/images/1177.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-dentist-dash",
+    "thumbnail": "https://learningworlds.github.io/images/1178.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "thread-match-2",
+    "thumbnail": "https://learningworlds.github.io/images/1179.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "labuba-halloween-infestation",
+    "thumbnail": "https://learningworlds.github.io/images/1180.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "queen-of-mahjong",
+    "thumbnail": "https://learningworlds.github.io/images/1181.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cube-combo",
+    "thumbnail": "https://learningworlds.github.io/images/1182.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gun-war-z1",
+    "thumbnail": "https://learningworlds.github.io/images/1183.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "world-survivors",
+    "thumbnail": "https://learningworlds.github.io/images/1184.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "overtide-io",
+    "thumbnail": "https://learningworlds.github.io/images/1185.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-survival-rainbow-friends-monster",
+    "thumbnail": "https://learningworlds.github.io/images/1186.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "galaxy-control-3d-strategy",
+    "thumbnail": "https://learningworlds.github.io/images/1187.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-chess-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1188.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "flag-master-world-flags-quiz",
+    "thumbnail": "https://learningworlds.github.io/images/1189.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "idle-cinema-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/1190.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-the-royal-race",
+    "thumbnail": "https://learningworlds.github.io/images/1191.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dark-myth-monkey-merge",
+    "thumbnail": "https://learningworlds.github.io/images/1192.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "arrows-puzzle-escape",
+    "thumbnail": "https://learningworlds.github.io/images/1193.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "100-doors",
+    "thumbnail": "https://learningworlds.github.io/images/1194.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papas-taco-mia",
+    "thumbnail": "https://learningworlds.github.io/images/1195.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-shooter-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1196.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "galaxy-clicker",
+    "thumbnail": "https://learningworlds.github.io/images/1197.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "woody-hexa",
+    "thumbnail": "https://learningworlds.github.io/images/1198.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://learningworlds.github.io/images/1199.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "alien-chase-swing-and-fly",
+    "thumbnail": "https://learningworlds.github.io/images/1200.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "99-nights-bloxd-io",
+    "thumbnail": "https://learningworlds.github.io/images/1201.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ufo-io-armada",
+    "thumbnail": "https://learningworlds.github.io/images/1202.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "obby-1-pet-every-seconds",
+    "thumbnail": "https://learningworlds.github.io/images/1203.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stickman-gunner",
+    "thumbnail": "https://learningworlds.github.io/images/1204.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "noob-village-tower-defense",
+    "thumbnail": "https://learningworlds.github.io/images/1205.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "tangram-puzzle",
+    "thumbnail": "https://learningworlds.github.io/images/1206.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "magic-tiles-3",
+    "thumbnail": "https://learningworlds.github.io/images/1207.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "metal-bay-top-blade-power",
+    "thumbnail": "https://learningworlds.github.io/images/1208.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "candy-riddles",
+    "thumbnail": "https://learningworlds.github.io/images/1209.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "office-brawl-room-smash",
+    "thumbnail": "https://learningworlds.github.io/images/1210.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "fruit-match",
+    "thumbnail": "https://learningworlds.github.io/images/1211.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tile-hexa-sort",
+    "thumbnail": "https://learningworlds.github.io/images/1212.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "spider-solitaire-2-suits",
+    "thumbnail": "https://learningworlds.github.io/images/1213.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "miner-s-odyssey",
+    "thumbnail": "https://learningworlds.github.io/images/1214.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jeff-the-killer-vs-slendrina",
+    "thumbnail": "https://learningworlds.github.io/images/1215.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smile-slime",
+    "thumbnail": "https://learningworlds.github.io/images/1216.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "potion-sort",
+    "thumbnail": "https://learningworlds.github.io/images/1217.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-merge-idle-io-zone-game",
+    "thumbnail": "https://learningworlds.github.io/images/1218.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chess-online",
+    "thumbnail": "https://learningworlds.github.io/images/1219.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "3d-underground-car-parking",
+    "thumbnail": "https://learningworlds.github.io/images/1220.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "superhero-drop-and-save",
+    "thumbnail": "https://learningworlds.github.io/images/1221.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://learningworlds.github.io/images/1222.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "catch-a-rock-nbq",
+    "thumbnail": "https://learningworlds.github.io/images/1223.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "beam",
+    "thumbnail": "https://learningworlds.github.io/images/1224.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spider-rope-hero-city-fight",
+    "thumbnail": "https://learningworlds.github.io/images/1225.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "float-for-brainrots",
+    "thumbnail": "https://learningworlds.github.io/images/1226.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "fish-stab-getting-big",
+    "thumbnail": "https://learningworlds.github.io/images/1227.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "plug-man-race",
+    "thumbnail": "https://learningworlds.github.io/images/1228.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "rotate",
+    "thumbnail": "https://learningworlds.github.io/images/1229.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-mayhem-online",
+    "thumbnail": "https://learningworlds.github.io/images/1230.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "1010-elixir-alchemy",
+    "thumbnail": "https://learningworlds.github.io/images/1231.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "candy-monster-raffi",
+    "thumbnail": "https://learningworlds.github.io/images/1232.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tangle-master",
+    "thumbnail": "https://learningworlds.github.io/images/1233.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-clash",
+    "thumbnail": "https://learningworlds.github.io/images/1234.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazysteveio",
+    "thumbnail": "https://learningworlds.github.io/images/1235.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swimming-pool-romance",
+    "thumbnail": "https://learningworlds.github.io/images/1236.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "echolocation-shooter",
+    "thumbnail": "https://learningworlds.github.io/images/1237.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stickman-destruction-3-heroes",
+    "thumbnail": "https://learningworlds.github.io/images/1238.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "treasures-merge-3d-hkc",
+    "thumbnail": "https://learningworlds.github.io/images/1239.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-miner-boss-battle",
+    "thumbnail": "https://learningworlds.github.io/images/1240.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tall-io",
+    "thumbnail": "https://learningworlds.github.io/images/1241.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sortstore",
+    "thumbnail": "https://learningworlds.github.io/images/1242.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "assassin-hero-infinity-blade",
+    "thumbnail": "https://learningworlds.github.io/images/1243.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "miner-tycoon-big-dynamite",
+    "thumbnail": "https://learningworlds.github.io/images/1244.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-simulator-dream-store",
+    "thumbnail": "https://learningworlds.github.io/images/1245.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sniper-freeze",
+    "thumbnail": "https://learningworlds.github.io/images/1246.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "dress-princess",
+    "thumbnail": "https://learningworlds.github.io/images/1247.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "donut-place",
+    "thumbnail": "https://learningworlds.github.io/images/1248.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aidan-in-danger",
+    "thumbnail": "https://learningworlds.github.io/images/1249.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "kings-and-queens-solitaire-tripeaks",
+    "thumbnail": "https://learningworlds.github.io/images/1250.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "devs-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/1251.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stunt-mania-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1252.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "truck-driving-simulator-game",
+    "thumbnail": "https://learningworlds.github.io/images/1253.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skeleton-simulator",
+    "thumbnail": "https://learningworlds.github.io/images/1254.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heritage-mahjong-classic",
+    "thumbnail": "https://learningworlds.github.io/images/1255.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "immortal-dark-slayer",
+    "thumbnail": "https://learningworlds.github.io/images/1256.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "remove-the-blocks",
+    "thumbnail": "https://learningworlds.github.io/images/1257.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "mr-cappuccino-assassino",
+    "thumbnail": "https://learningworlds.github.io/images/1258.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "monster-collect-run",
+    "thumbnail": "https://learningworlds.github.io/images/1259.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "fight-to-the-end",
+    "thumbnail": "https://learningworlds.github.io/images/1260.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "easy-obby-jump-and-run-challenge-online",
+    "thumbnail": "https://learningworlds.github.io/images/1261.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "slice-arena",
+    "thumbnail": "https://learningworlds.github.io/images/1262.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "haunted-heroes",
+    "thumbnail": "https://learningworlds.github.io/images/1263.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "secret-galaxy-match-three",
+    "thumbnail": "https://learningworlds.github.io/images/1264.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "real-racing-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1265.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "italian-brainrot-challenge",
+    "thumbnail": "https://learningworlds.github.io/images/1266.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "dead-faces-clone-online",
+    "thumbnail": "https://learningworlds.github.io/images/1267.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "load-the-dishes-asmr",
+    "thumbnail": "https://learningworlds.github.io/images/1268.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mad-truck-challenge-special",
+    "thumbnail": "https://learningworlds.github.io/images/1269.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wonders-of-egypt-mahjong",
+    "thumbnail": "https://learningworlds.github.io/images/1270.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://learningworlds.github.io/images/1271.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://learningworlds.github.io/images/1272.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://learningworlds.github.io/images/1273.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "find-the-differences-cars",
+    "thumbnail": "https://learningworlds.github.io/images/1274.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bubble-pop-legend",
+    "thumbnail": "https://learningworlds.github.io/images/1275.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "domino-world",
+    "thumbnail": "https://learningworlds.github.io/images/1276.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "lost-in-the-forest",
+    "thumbnail": "https://learningworlds.github.io/images/1277.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "fox-simulator-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1278.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-it-in-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1279.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "paint-the-flag",
+    "thumbnail": "https://learningworlds.github.io/images/1280.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-sort-grocery-game",
+    "thumbnail": "https://learningworlds.github.io/images/1281.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sushi-factory",
+    "thumbnail": "https://learningworlds.github.io/images/1282.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "construct-a-bridge",
+    "thumbnail": "https://learningworlds.github.io/images/1283.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "little-shop",
+    "thumbnail": "https://learningworlds.github.io/images/1284.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://learningworlds.github.io/images/1285.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "perfect-piano",
+    "thumbnail": "https://learningworlds.github.io/images/1286.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "falling-fruits",
+    "thumbnail": "https://learningworlds.github.io/images/1287.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "split-shot-ball-adventure",
+    "thumbnail": "https://learningworlds.github.io/images/1288.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "mahjong-connect-2-2",
+    "thumbnail": "https://learningworlds.github.io/images/1289.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cowboy-lasso-hunting-idle-tycoon",
+    "thumbnail": "https://learningworlds.github.io/images/1290.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://learningworlds.github.io/images/1291.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "stickman-prison-escape",
+    "thumbnail": "https://learningworlds.github.io/images/1292.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gold-miner-tower-defense",
+    "thumbnail": "https://learningworlds.github.io/images/1293.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "yokai-party",
+    "thumbnail": "https://learningworlds.github.io/images/1294.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-kill-3d",
+    "thumbnail": "https://learningworlds.github.io/images/1295.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "earth-taken",
+    "thumbnail": "https://learningworlds.github.io/images/1296.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "police-car-line-driving",
+    "thumbnail": "https://learningworlds.github.io/images/1297.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "the-island",
+    "thumbnail": "https://learningworlds.github.io/images/1298.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bullet-heroes",
+    "thumbnail": "https://learningworlds.github.io/images/1299.webp",
+    "genre": "Shooter, .IO"
+  }
+]
